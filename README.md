@@ -2,3 +2,5 @@
 raspberry pi configuration
 
 USed for ansible pi configuration
+
+სანდროს შევეცი გულპირში
